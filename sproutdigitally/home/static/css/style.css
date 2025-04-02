@@ -1,0 +1,14 @@
+html body {
+    background-color: white !important;
+}
+
+body .text-desc {
+    color: black !important;
+}
+
+body .subheader .entry-title {
+    color: black !important;
+}
+.text-desc1 {
+    color: white;
+}
