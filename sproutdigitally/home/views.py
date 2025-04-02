@@ -6,3 +6,9 @@ def index(request):
 
 def company(request):
     return render(request,'company.html',{})
+
+def expertise(request):
+    return render(request,'expertise.html',{})
+
+def contact(request):
+    return render(request,'contact.html',{})

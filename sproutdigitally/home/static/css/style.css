@@ -12,3 +12,6 @@ body .subheader .entry-title {
 .text-desc1 {
     color: white;
 }
+body .container{
+    background-color: black !important  ;
+}
